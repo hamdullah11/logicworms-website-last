@@ -218,7 +218,7 @@
         "icon": "fa-twitter"
       }
     ],
-    "about": "Software Engineer with 1 year of experience in web designing and web development that deliver improved functionality and user experience in a very well-structured code.",
+    "about": "Software Engineer with 1.5 year of experience in web designing and web development that deliver improved functionality and user experience in a very well-structured code.",
     "skills": [
       "React js",
       "Next js",
@@ -229,7 +229,7 @@
   },
   {
     "name": "Syed Asad",
-    "designation": "Web Developer",
+    "designation": "UI/UX Designer",
     "image": "/images/team/employees/asad.png",
     "socialLinks": [
       {
@@ -248,6 +248,6 @@
         "icon": "fa-twitter"
       }
     ],
-    "about": "Software Engineer with 1 year of experience in web designing and web development that deliver improved functionality and user experience in a very well-structured code.",
+    "about": "Software Engineer with 1 year of experience in graphic designing,User interface(UI), User Experience (UX), and web development that deliver improved functionality and user experience in a very well-structured code.",
     "skills": ["React js", "Web developer", "Html | Css", "Bootstrap"]
   }

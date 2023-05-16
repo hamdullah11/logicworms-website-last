@@ -61,7 +61,6 @@ function TeamSlider() {
         className="team-carousel1 owl owl-carousel owl-none owl-theme owl-dots-primary-full"
       >
         {Team.employees.map((member) => {
-          console.log(member.SocialLinks);
           return (
             <div
               className="item wow fadeInUp"
