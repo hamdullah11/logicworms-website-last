@@ -77,6 +77,7 @@ function Features() {
                   src="images/about/img5-logicworms.png"
                   className="move-2"
                   alt=""
+                  loading="lazy"
                 />
               </div>
             </div>

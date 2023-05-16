@@ -79,7 +79,7 @@ function Team1() {
                         className="dlab-media dlab-img-effect zoom zoom-slow"
                         style={{ cursor: "pointer" }}
                       >
-                        <img src={member?.image} alt="img" />
+                        <img src={member?.image} alt="img" loading="lazy" />
                       </div>
                       <div className="dlab-content">
                         <div className="clearfix">
@@ -155,7 +155,12 @@ function Team1() {
         </Modal.Header>
 
         <Modal.Body>
-          <img src={teamMember?.image} width={500} height={500} />
+          <img
+            src={teamMember?.image}
+            width={500}
+            height={500}
+            loading="lazy"
+          />
 
           <span
             className="fw-bold "

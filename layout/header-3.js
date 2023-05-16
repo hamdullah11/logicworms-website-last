@@ -35,11 +35,13 @@ function Header3() {
                       className="custom-logo-white"
                       src="images/logicWormslogo-white.svg"
                       alt=""
+                      loading="lazy"
                     />
                     <img
                       className="custom-logo"
                       src="images/logicWormslogo.svg"
                       alt=""
+                      loading="lazy"
                     />
                   </a>
                 </Link>
@@ -74,7 +76,11 @@ function Header3() {
                 <div className="logo-header">
                   <Link href="/">
                     <a>
-                      <img src="images/logicWormslogo.svg" alt="" />
+                      <img
+                        src="images/logicWormslogo.svg"
+                        alt=""
+                        loading="lazy"
+                      />
                     </a>
                   </Link>
                 </div>

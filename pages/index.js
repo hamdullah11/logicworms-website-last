@@ -19,6 +19,7 @@ function Home() {
   useEffect(() => {
     document.querySelector("body").setAttribute("color", "color_1");
   }, []);
+
   return (
     <>
       <Header />

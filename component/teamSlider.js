@@ -72,7 +72,7 @@ function TeamSlider() {
             >
               <div className="dlab-team style-1 m-b10">
                 <div className="dlab-media" style={{ cursor: "pointer" }}>
-                  <img src={member.image} alt="" />
+                  <img src={member.image} alt="" loading="lazy" />
                 </div>
                 <div className="dlab-content">
                   <div className="clearfix">
@@ -107,7 +107,12 @@ function TeamSlider() {
         </Modal.Header>
 
         <Modal.Body>
-          <img src={TeamMember?.image} width={500} height={500} />
+          <img
+            src={TeamMember?.image}
+            width={500}
+            height={500}
+            loading="lazy"
+          />
 
           <span
             className="fw-bold "

@@ -52,7 +52,12 @@ function AboutUs1() {
                 data-wow-delay="0.2s"
               >
                 <div className="dz-media">
-                  <img src="images/about/img4.png" className="move-3" alt="" />
+                  <img
+                    src="images/about/img4.png"
+                    className="move-3"
+                    alt=""
+                    loading="lazy"
+                  />
                 </div>
               </div>
               <div
@@ -169,7 +174,7 @@ function AboutUs1() {
                 data-wow-delay="0.4s"
               >
                 <div className="video-bx style-3">
-                  <img src="images/video/pic3.jpg" alt="" />
+                  <img src="images/video/pic3.jpg" alt="" loading="lazy" />
                   <div className="video-btn">
                     <a
                       href="#"

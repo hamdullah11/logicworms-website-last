@@ -22,7 +22,7 @@ function Footer() {
                 <div className="col-xl-4 col-md-4">
                   <div className="footer-logo">
                     <a href="/">
-                      <img src="images/Group 6.svg" alt="logo" />
+                      <img src="images/Group 6.svg" alt="logo" loading="lazy" />
                     </a>
                   </div>
                 </div>

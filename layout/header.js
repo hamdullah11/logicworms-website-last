@@ -65,7 +65,13 @@ function Header() {
                 <div className="logo-header">
                   <Link href="/">
                     <a>
-                      <img src="images/logicWormslogo.svg" alt="" />
+                      <Image
+                        src="/images/logicWormslogo.svg"
+                        alt=""
+                        width={"100%"}
+                        height={"100"}
+                        objectFit="cover"
+                      />
                     </a>
                   </Link>
                 </div>

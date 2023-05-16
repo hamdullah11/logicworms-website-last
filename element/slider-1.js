@@ -11,10 +11,18 @@ function Slider1() {
         <div className="container">
           <div className="banner-inner">
             <div className="img1">
-              <img src="images/main-slider/slider1/pic3-logic.png" alt="" />
+              <img
+                src="images/main-slider/slider1/pic3-logic.png"
+                alt=""
+                loading="lazy"
+              />
             </div>
             <div className="img2">
-              <img src="images/main-slider/slider1/pic4-logic.png" alt="" />
+              <img
+                src="images/main-slider/slider1/pic4-logic.png"
+                alt=""
+                loading="lazy"
+              />
             </div>
             <div className="row align-items-center">
               <div className="col-md-6">
@@ -42,7 +50,7 @@ function Slider1() {
                   >
                     Our Team has Expertise in developing and implementing
                     effective computing solutions that suits your business
-                    unique need
+                    unique needs.
                   </p>
                   <Link href="/about">
                     <a
@@ -65,11 +73,13 @@ function Slider1() {
                     className="move-1"
                     src="images/move/pic1-logic.png"
                     alt=""
+                    loading="lazy"
                   />
                   <img
                     className="move-2"
                     src="images/move/pic2-logic.png"
                     alt=""
+                    loading="lazy"
                   />
                 </div>
               </div>

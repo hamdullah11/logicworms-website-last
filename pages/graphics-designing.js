@@ -49,7 +49,11 @@ function ServicesDetails1() {
             <div className="row">
               <div className="col-lg-12">
                 <div className="dlab-media m-b30 rounded-md">
-                  <img src="images/blog/default/thum1.jpg" alt="" />
+                  <img
+                    src="images/blog/default/thum1.jpg"
+                    alt=""
+                    loading="lazy"
+                  />
                 </div>
                 <div className="dlab-content">
                   <div className="m-b40">
@@ -115,7 +119,11 @@ function ServicesDetails1() {
                     </div>
                     <div className="col-lg-6">
                       <div className="video-bx style-3">
-                        <img src="images/video/pic3.jpg" alt="" />
+                        <img
+                          src="images/video/pic3.jpg"
+                          alt=""
+                          loading="lazy"
+                        />
                         <div className="video-btn">
                           <a
                             href="#"

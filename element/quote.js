@@ -303,6 +303,7 @@ function Quote() {
                   src="images/about/img2-logicworms.png"
                   className="move-1"
                   alt=""
+                  loading="lazy"
                 />
               </div>
             </div>
