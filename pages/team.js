@@ -173,7 +173,7 @@ function Team1() {
           </span>
           <span>
             <br />
-            {about}
+            {teamMember?.about}
           </span>
           <h5 className="mt-1">Skills</h5>
           <ul style={{ listStyleType: "square" }}>

@@ -72,7 +72,7 @@ function TeamSlider() {
             >
               <div className="dlab-team style-1 m-b10">
                 <div className="dlab-media" style={{ cursor: "pointer" }}>
-                  <img src={member.image} alt="" loading="lazy" />
+                  <img src={member.image} alt="" />
                 </div>
                 <div className="dlab-content">
                   <div className="clearfix">
@@ -125,7 +125,7 @@ function TeamSlider() {
           </span>
           <span>
             <br />
-            {TeamMember?.image}
+            {TeamMember?.about}
           </span>
           <h5 className="mt-1">Skills</h5>
           <ul style={{ listStyleType: "square" }}>
