@@ -56,7 +56,7 @@ function Footer() {
                     <div className="icon-content">
                       <p>
                         Overseas 5 commercial, <br />
-                        Phase 8 Bahrai Town, <br />
+                        Phase 8 Bahria Town, <br />
                         Rawalpindi Pakistan
                       </p>
                     </div>
